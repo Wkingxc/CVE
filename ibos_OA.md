@@ -6,6 +6,8 @@ official website:http://www.ibos.com.cn/
 
 version:4.5.5
 
+Download the source code or installer to local machine for deployment.
+
 
 
 Function point: Integrated office = "Recruitment management" = "Status" = "Interview"
